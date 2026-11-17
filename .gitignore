@@ -1,0 +1,28 @@
+# CodeIgniter 4
+api_umkm/.env
+api_umkm/vendor/
+api_umkm/writable/cache/*
+api_umkm/writable/logs/*
+api_umkm/writable/session/*
+api_umkm/writable/debugbar/*
+
+# Flutter
+flutter_umkm/.dart_tool/
+flutter_umkm/build/
+flutter_umkm/.flutter-plugins
+flutter_umkm/.flutter-plugins-dependencies
+
+# Android
+**/.gradle/
+**/local.properties
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# IDE
+**/.idea/
+**/*.iml
+
+# OS
+.DS_Store
+Thumbs.db
