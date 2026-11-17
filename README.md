@@ -97,7 +97,38 @@ Pengujian dilakukan menggunakan Postman untuk memastikan setiap endpoint dapat m
 
 Aplikasi menggunakan konsep desain **Neubrutalism**, dengan warna dominan krem, kuning, dan hitam, serta penggunaan border tebal dan elemen kartu.
 
-*Screenshot tampilan aplikasi dapat ditambahkan pada bagian ini.*
+
+## Dokumentasi Tampilan Aplikasi
+
+### 1. Dashboard Awal
+![Dashboard Awal](ss%20pemmob/dashboard%20awal.png)
+
+### 2. Pencarian UMKM
+![Pencarian UMKM](ss%20pemmob/search.png)
+
+### 3. Menambahkan UMKM
+![Tambah UMKM](ss%20pemmob/tambah.png)
+
+### 4. Mengedit UMKM
+![Edit UMKM](ss%20pemmob/edit.png)
+
+### 5. Menghapus UMKM
+![Hapus UMKM](ss%20pemmob/hapus.png)
+
+## Dokumentasi Pengujian REST API
+
+### 1. GET — Menampilkan Data
+![GET API](ss%20pemmob/get.png)
+
+### 2. POST — Menambahkan Data
+![POST API](ss%20pemmob/post.png)
+
+### 3. PUT — Memperbarui Data
+![PUT API](ss%20pemmob/put.png)
+
+### 4. DELETE — Menghapus Data
+![DELETE API](ss%20pemmob/delete.png)
+  
 
 ## Hasil Pembelajaran
 
